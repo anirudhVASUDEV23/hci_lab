@@ -1,4 +1,4 @@
-# **Interactive Design Layout for [Application Name]**
+# **Interactive Design Layout for Budget App**
 
 ## **Project Overview**
 This project focuses on developing an **interactive design layout** for the assigned application domain, incorporating various **Human-Computer Interaction (HCI) principles**. The design aims to **enhance usability** by applying key concepts such as:
