@@ -9,8 +9,6 @@ This project focuses on developing an **interactive design layout** for the assi
 - **Flexibility, Robustness, Learnability, Recency, and Serial Position Effect**
 - **The 80-20 Rule (Pareto Principle) in HCI**
 
-The final submission includes **wireframes, screenshots, and explanations** of how these HCI principles were implemented.
-
 ---
 
 ## **Features & Design Considerations**
